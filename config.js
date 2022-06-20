@@ -1,6 +1,6 @@
 /**
    * Created By LoRD.
-   * Contact Me on wa.me/919778383987
+   * Contact Me on wa.me/917510734295
    * Follow https://github.com/Lord-official
 **/
 
@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 //======================================//
 
-global.wm = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮'
+global.wm = '«ᴛʀᷤᴏͧxᷫɪͥɴ»🇮'
 global.ucpn = ''
 
 //================= Url =================//
@@ -32,14 +32,14 @@ global.linkgh = 'https://github.com/Lord-official'
 
 global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'Lord-official'
+global.bodlink = 'Heyyhh'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
-global.sessionName = 'lord'
+global.watermark = 'ꪶ𝛿𝑈𝐹𝛪-𝛽𝛳𝛵ꫂ🇮🇳'
+global.owner = ['917510734295']
+global.premium = ['917510734295']
+global.packname = 'ᴛʀᷤᴏͧxᷫɪͥɴ'
+global.author = 'ꪶ𝛿𝑈𝐹𝛪-𝛽𝛳𝛵ꫂ'
+global.sessionName = '«ᴛʀᷤᴏͧxᷫɪͥɴ»'
 global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
 global.mess = {
